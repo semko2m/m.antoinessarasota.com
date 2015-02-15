@@ -7,7 +7,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-        <title>Affiliated Mental Health Professionals, S.C.</title>
+        <title>Welcome to Antoine’s Restaurant</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <link rel="shortcut icon" href="../../favicon.ico"> 
         <link rel="stylesheet" type="text/css" href="css/demo.css"/>
@@ -27,11 +27,11 @@
             			<h3>David McNeil, M.D.</h3>
             		</div>
             </li>
-            <li><span>Image 02</span><div><h3>David McNeil, M.D.</h3></div></li>
-            <li><span>Image 03</span><div><h3>Sylvia A. Pawlik, MSN, RN, CNP</h3></div></li>
-            <li><span>Image 04</span><div><h3>David McNeil, M.D.</h3></div></li>
-            <li><span>Image 05</span><div><h3>Sylvia A. Pawlik, MSN, RN, CNP</h3></div></li>
-            <li><span>Image 06</span><div><h3>David McNeil, M.D.</h3></div></li>
+            <li><span>Image 02</span><div><h3>Welcome to Antoine’s Restaurant</h3></div></li>
+            <li><span>Image 03</span><div><h3></h3></div></li>
+            <li><span>Image 04</span><div><h3></h3></div></li>
+            <li><span>Image 05</span><div><h3></h3></div></li>
+            <li><span>Image 06</span><div><h3></h3></div></li>
         </ul>
         <div class="container">
             <!-- Codrops top bar -->
@@ -86,11 +86,7 @@
 	                                    dugme.innerHTML="Find US";
 	                                    prostordugme.appendChild(dugme);
 	                                    }        
-                                    
-                                
-                                    
 
-                                    
                             else {
                                 console.log("nije nigdje uslo default ")
                                 var prostordugme=document.getElementById('findUS');
@@ -101,7 +97,6 @@
                                 prostordugme.appendChild(dugme);
                             }
 
-                            
 
                             // if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
                             // // some code..
